@@ -25,6 +25,7 @@
     
     NSLog(@"git plus");
     
+    NSLog(@"git branch");
 }
 
 
